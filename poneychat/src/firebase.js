@@ -4,13 +4,13 @@ import 'firebase/compat/firestore';
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyCWHYOrQIzgsryjMuofnZ67uTvE6vWa_98",
-    authDomain: "poneychat-5cc89.firebaseapp.com",
-    projectId: "poneychat-5cc89",
-    storageBucket: "poneychat-5cc89.appspot.com",
-    messagingSenderId: "888207157369",
-    appId: "1:888207157369:web:ed05f3169c5c9add5f0ca8",
-    measurementId: "G-ZCF0X5BVSD"
+    apiKey: "API_kEY",
+    authDomain: "________",
+    projectId: "________",
+    storageBucket: "________",
+    messagingSenderId: "________",
+    appId: "________",
+    measurementId: "________"
   };
 
 // Use this to initialize the firebase App
